@@ -1,0 +1,10 @@
+charity-site/
+|-- index.html
+|-- styles.css
+|-- images/
+    |-- hero-image.jpg
+    |-- building.jpg
+    |-- water.jpg
+    |-- education.jpg
+    |-- agriculture.jpg
+    |-- projects.jpg
