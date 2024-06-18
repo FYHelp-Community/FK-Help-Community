@@ -98,11 +98,11 @@ Scegliendo l'abbonamento mensile, fornisci un supporto continuo con una piccola 
 
 ## Storie di Successo
 
-### Giulia, 10 anni - Un Futuro Più Luminoso
+### Zajme, 10 anni - Un Futuro Più Luminoso
 
 Giulia viveva in un villaggio senza accesso all'acqua potabile. Grazie alle donazioni, abbiamo installato un condotto per l'acqua. Ora, Giulia può frequentare la scuola e sognare un futuro migliore.
 
-### Luca, 12 anni - Dall'Orfano alla Scuola
+### Abram, 12 anni - Dall'Orfano alla Scuola
 
 Luca era un orfano senza una casa stabile. Con il supporto del nostro progetto, è stato accolto in una casa per bambini e frequenta la scuola locale, imparando e crescendo in un ambiente sicuro.
 
